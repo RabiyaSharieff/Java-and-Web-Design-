@@ -6,6 +6,8 @@
 
 2) Chat client for the above server. The client will have a top box which is displays all the messages from the clients, and a bottom input which will allow text to be written to the server.Upon starting the client,  asks which server to connect to and what username to use. When the client connects to the server it sends the username as the first message. After the first message is sent, anything received from the server is displayed in the top box and anything written in the bottom box (after the send button is pushed) is sent to the server.
 
-**Chat Room**
+**Auto Changing Buttons**
 
-**Chat Room**
+**Survey**
+
+**Analog Clock**
